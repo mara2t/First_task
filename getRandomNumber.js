@@ -3,3 +3,7 @@ function getRandomLetter(){
   const randomNumber = Math.floor(Math.random()*alphabet.length) 
   return alphabet[randomNumber] 
  }
+getRundomLetter()
+getRundomLetter()
+getRundomLetter()
+getRundomLetter()
